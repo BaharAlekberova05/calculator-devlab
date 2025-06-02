@@ -25,7 +25,7 @@ https://calculator-devlab.vercel.app/
 Local Installation
 
 Clone the repository: 
-[git clone https://github.com/username/calculator.git](https://github.com/BaharAlekberova05/calculator-devlab.git)
+https://github.com/BaharAlekberova05/calculator-devlab.git
 
 Navigate to the project directory:
 cd calculator
