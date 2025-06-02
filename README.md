@@ -4,6 +4,9 @@ A modern and user-friendly web-based calculator application.
 ---
 
 ✨ Features
+
+---
+
 ➕ Basic Operations: Addition, subtraction, multiplication, division
 🧹 Clear Function: C button to clear the entire display
 ⌫ Backspace: Delete the last entered character
@@ -20,8 +23,6 @@ https://calculator-devlab.vercel.app/
 ---
 
 Local Installation
-
----
 
 Clone the repository:
 bash 
