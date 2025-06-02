@@ -24,12 +24,10 @@ https://calculator-devlab.vercel.app/
 
 Local Installation
 
-Clone the repository:
-bash 
+Clone the repository: 
 [git clone https://github.com/username/calculator.git](https://github.com/BaharAlekberova05/calculator-devlab.git)
 
 Navigate to the project directory:
-bash
 cd calculator
 
 Open index.html in your web browser
